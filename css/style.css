@@ -1,3 +1,4 @@
+/* header style */
 header {
   background-color: #fff9f4;
 }
@@ -37,4 +38,31 @@ header {
 }
 .btn-nike:hover {
   color: #fff;
+}
+
+/* main section style casual shoes */
+.card-img {
+  background-color: #cecece;
+  width: 90%;
+}
+
+.card-img-fluid {
+  width: 100%;
+  height: 400px;
+}
+
+.card-body {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.card-title {
+  color: #363958;
+}
+
+.price {
+  color: #fa804c;
+
+  font-weight: 900;
+  font-size: 2.15rem;
 }
