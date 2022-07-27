@@ -1,0 +1,40 @@
+header {
+  background-color: #fff9f4;
+}
+
+.navbar {
+  background-color: #fff9f4;
+}
+
+.header-title {
+  font-size: 3.3rem;
+}
+
+.title-1 {
+  color: #fa804c;
+}
+
+.title-2 {
+  color: #23264a;
+}
+
+.btn-nike {
+  background: linear-gradient(180deg, #3d4ff3 0%, #3543bc 100%);
+  border-radius: 10px;
+  color: #fff;
+
+  padding: 0.8rem 1.5rem;
+  text-transform: uppercase;
+}
+
+.btn-icon {
+  width: 1.5rem;
+  padding-right: 0.2rem;
+}
+
+.btn-nike:focus {
+  color: #fff;
+}
+.btn-nike:hover {
+  color: #fff;
+}
